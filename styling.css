@@ -1,0 +1,130 @@
+body {
+    background-color: rgb(189, 233, 250);
+}
+.manufacturing {
+    background-color: rgb(226, 221, 213);
+}
+.history {
+    background-color: rgb(250, 255, 203);
+}
+.importance {
+    background-color: rgb(255, 209, 216);
+}
+.citations {
+    background-color: rgb(255, 236, 203);
+}
+h1 {
+    font-family: 'Times New Roman';
+    text-align: center;
+    padding-top: 30px;
+}
+table {
+    border: 1px solid black;
+    text-align: center;
+    /*float: i;*/
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    
+}
+th {
+    font-family: 'Times-New-Roman';
+    font-size: 24px;
+    text-align: center;
+    padding-inline-start: 40px;
+}
+h2 {
+    padding-left: 40px;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h3 {
+    padding-left: 40px;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+p {
+    font-size: 18px;
+    padding-left: 30px;
+    font-family: 'Times New Roman';
+
+}
+.resources-list {
+    padding-left: 40px;
+    font-size: 24px;
+}
+.source {
+    padding-top: 25px;
+}
+h4 {
+    text-decoration: underline indigo;
+    text-align: right;
+    padding-right: 20px;
+}
+a {
+    color: indigo;
+    text-decoration: wavy;
+    transition: 0.33s linear;
+}
+a:hover {
+    color: blue;
+}
+.header-pic {
+    width: 100px;
+    height: 100px;
+    border-style: solid;
+}
+.manufacturing-pages {
+    text-align: center;
+}
+.manufacturing-images {
+    width: auto;
+    height: auto;
+    max-width: 600px;
+    max-height: 600px;
+    border: 3px solid purple;
+    transition: .33s linear;
+}
+.manufacturing-images:hover{
+    border: 3px solid blue;
+}
+.continue {
+    font-size: 35px;
+}
+.topic {
+    font-weight: bold;
+    padding-right: 30px;
+    padding-top: 20px;
+}
+.data {
+    text-align: left;
+    padding-bottom: 20px;
+    border: 0px;
+    padding-left: 250px;
+    padding-right: 250px;
+}
+.info {
+    padding-top: 25px;
+}
+#video {
+    border: 5px solid purple;
+    
+}
+.parent {
+    display: flex;
+    justify-content: center;
+}
+.small-list {
+    font-size: 18px;
+    padding-left: 65px;
+}
+/*.right-side {
+    margin-left: 300px;
+    margin-right: 100px;
+    width: 150px;
+    border: 3px solid purple;
+}
+.right-side:hover {
+    border: 3px solid blue;
+}*/
